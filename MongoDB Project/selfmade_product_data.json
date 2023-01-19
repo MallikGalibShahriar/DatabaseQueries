@@ -1,0 +1,72 @@
+[
+    {
+        "productName": "Bread",
+        "price": 50,
+        "inStock": true,
+        "company": "Pran",
+        "discount": 2
+    },
+    {
+        "productName": "Masala",
+        "price": 90,
+        "inStock": true,
+        "company": "Radhuni",
+        "discount": 0
+    },
+    {
+        "productName": "Ice-cream",
+        "price": 35,
+        "inStock": true,
+        "company": "Igloo",
+        "discount": 0
+    },
+    {
+        "productName": "Chocolate",
+        "price": 70,
+        "inStock": false,
+        "company": "Kitkat",
+        "discount": 0
+    },
+    {
+        "productName": "Noodles",
+        "price": 20,
+        "inStock": true,
+        "company": "Maggi",
+        "discount": 0
+    },
+    {
+        "productName": "Milk",
+        "price": 50,
+        "inStock": true,
+        "company": "Aarong",
+        "discount": 5
+    },
+    {
+        "productName": "Chanachur",
+        "price": 10,
+        "inStock": false,
+        "company": "Pran",
+        "discount": 1
+    },
+    {
+        "productName": "Coffee",
+        "price": 120,
+        "inStock": true,
+        "company": "Nescafe",
+        "discount": 0
+    },
+    {
+        "productName": "Rice",
+        "price": 70,
+        "inStock": true,
+        "company": "Najirshail",
+        "discount": 0
+    },
+    {
+        "productName": "Dairy Milk",
+        "price": 120,
+        "inStock": true,
+        "company": "Pran",
+        "discount": 15
+    }
+]
